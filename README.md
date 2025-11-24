@@ -1,6 +1,6 @@
 # 💰 Financial-Assistant-Automation-Workflow-
 
-
+![Alt Text](https://github.com/OssFad/Financial-Assistant-Automation-Workflow-/blob/main/Financial%20Assistant.png)
 ![Alt Text](https://github.com/OssFad/Financial-Assistant-Automation-Workflow-/blob/main/n8n%20image.PNG)
 
 ![Alt Text](https://github.com/OssFad/Financial-Assistant-Automation-Workflow-/blob/main/Telegram%20Capture.PNG)
