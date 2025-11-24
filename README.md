@@ -1,4 +1,4 @@
-# 💰 Financial-Assistant-Automation-Workflow-
+# 💰 Financial Assistant Automation Workflow
 
 ![Alt Text](https://github.com/OssFad/Financial-Assistant-Automation-Workflow-/blob/main/Financial%20Assistant.png)
 
